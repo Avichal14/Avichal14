@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avichal Kumar</h1>
 <!-- <h3 align="center">A passionate Web developer.</h3> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+..&hearts;++;Self-taught+Full-Stack+Developer,;Information+Technology+Student,;Newbie,;Active+Learner/Always Curious,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/Avichal14/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone+..&hearts;++;Self-taught+Full-Stack+Developer,;Information+Technology+Student,;Newbie,;Active+Learner/Always Curious,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
