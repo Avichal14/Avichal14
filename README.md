@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **avichal.bharti14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11tIuGJOUTdjL7ab9TnPCBu5_tWbyDNe9/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vuoREG_WCjmmgZBFG9MwNMZZ6Exiwdd-/view?usp=sharing]
 
 
 <h3 align="left">Connect with me:</h3>
